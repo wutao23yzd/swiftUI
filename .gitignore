@@ -1,0 +1,6 @@
+Pods
+*.ipa
+.DS_Store
+xcuserdata
+*.xccheckout
+.idea/
